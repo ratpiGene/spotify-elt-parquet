@@ -2,3 +2,5 @@ orjson>=3.9
 msgspec>=0.18
 pyarrow>=15.0
 duckdb>=1.0
+streamlit>=1.35
+plotly>=5.20
